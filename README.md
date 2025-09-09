@@ -1,1 +1,1 @@
-# Health-Analysis
+# This project uses Python to explore a dataset about the food environment index and it's related socio-economic factors. I first cleaned up the columns necessary for analysis and then made graphs highlighting the highest impacted states and the correlation(s) between them.
